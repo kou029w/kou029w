@@ -1,3 +1,0 @@
-Tab: menu-complete
-"\e[Z": menu-complete-backward # Shift-Tab
-set show-all-if-ambiguous on

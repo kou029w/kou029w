@@ -1,7 +1,0 @@
-[user]
-	name = Kohei Watanabe
-	email = kou029w@gmail.com
-[pull]
-	rebase = true
-[init]
-	defaultBranch = main
